@@ -1,4 +1,4 @@
-# clone-contracts — a Claude Code skill
+# clone-contracts
 
 A Claude Code skill (plus standalone CLI) for cloning verified Solidity source code
 from Etherscan V2. It auto-resolves proxies to their implementation and rewrites
